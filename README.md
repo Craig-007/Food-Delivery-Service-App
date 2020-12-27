@@ -1,8 +1,7 @@
 # Food-Delivery-Service-App
 ## CS2102 Project
 
-Team Members:
-Chen Hui, Jason Sathya Citro, Lim Jun Kuang Lionel, Lin Yuting
+creator Craig 007
 
 ### Introduction
 
